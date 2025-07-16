@@ -13,3 +13,5 @@ Python 🐍 | Kotlin ☕ | Web 🌐 | AI 💡
 
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohamed123&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/mohamed123/mohamed123/blob/output/github-contribution-grid-snake.svg)
