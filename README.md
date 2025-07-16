@@ -11,7 +11,15 @@ Learning every day and building cool stuff with Python, AI, Web, and Kotlin 💡
 ## 🧠 Tech I love:
 Python 🐍 | Kotlin ☕ | Web 🌐 | AI 💡
 
+## 🛠 Languages and Tools:
+- 🐍 Python
+- 🕸 HTML, CSS
+- ⚙️ Git, GitHub
+- 🤖 AI (Machine Learning)
+
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohamed123&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/mohamed123/mohamed123/blob/output/github-contribution-grid-snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamed123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![visitors](https://komarev.com/ghpvc/?username=mohamed123&color=blue)
